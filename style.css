@@ -1,0 +1,6 @@
+main .home_section {
+  background-image: url("../images/Header-llustration-desktop@2x.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
