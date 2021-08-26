@@ -11,7 +11,7 @@ main .home_section {
 }
 
 .work_section_cards{
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 .work_section_cards .card_project{
   max-width: 369px;
@@ -32,18 +32,21 @@ main .home_section {
 }
 
 .work_section_cards{
-  background-color: aqua;
+  /* background-color: aqua; */
 }
-/* .about_section_cards .card_project{
+.about_section_cards .cards_project{
   max-width: 369px;
   /* margin-bottom: 200px; */
   padding-bottom: 0;
   border-radius: 10px;
+  background: #ebf0ee;
 }
 
 .about_section_cards img {
   height: 150px;
-  /* width: 50px; */
   border-radius: 10px;
+}
 
-} */
+.ul>div {
+  /* font-size: 12px; */
+}
