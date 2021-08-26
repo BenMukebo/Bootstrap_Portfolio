@@ -1,6 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 main .home_section {
   background-image: url("../images/Header-llustration-desktop@2x.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+}
+
+.work_section_cards .card_project{
+  max-width: 369px;
+  margin-bottom: 200px;
+}
+
+.work_section_cards img {
+  height: 250px;
+  background: #ebf0ee
+}
+
+.card {
+  padding: 0;
 }
