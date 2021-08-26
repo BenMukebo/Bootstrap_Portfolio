@@ -30,3 +30,20 @@ main .home_section {
 .card {
   padding: 0;
 }
+
+.work_section_cards{
+  background-color: aqua;
+}
+/* .about_section_cards .card_project{
+  max-width: 369px;
+  /* margin-bottom: 200px; */
+  padding-bottom: 0;
+  border-radius: 10px;
+}
+
+.about_section_cards img {
+  height: 150px;
+  /* width: 50px; */
+  border-radius: 10px;
+
+} */
