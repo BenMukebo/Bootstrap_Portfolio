@@ -10,14 +10,21 @@ main .home_section {
   background-position: center center;
 }
 
+.work_section_cards{
+  background-color: aqua;
+}
 .work_section_cards .card_project{
   max-width: 369px;
-  margin-bottom: 200px;
+  /* margin-bottom: 200px; */
+  padding-bottom: 0;
+  border-radius: 10px;
 }
 
 .work_section_cards img {
   height: 250px;
-  background: #ebf0ee
+  background: #ebf0ee;
+  border-radius: 10px;
+
 }
 
 .card {
