@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+main .home_section {
+  background-image: url("../images/Header-llustration-desktop@2x.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.work_section_cards{
+  /* background-color: aqua; */
+}
+.work_section_cards .card_project{
+  max-width: 369px;
+  /* margin-bottom: 200px; */
+  padding-bottom: 0;
+  border-radius: 10px;
+}
+
+.work_section_cards img {
+  height: 250px;
+  background: #ebf0ee;
+  border-radius: 10px;
+
+}
+
+.card {
+  padding: 0;
+}
+
+.work_section_cards{
+  /* background-color: aqua; */
+}
+.about_section_cards .cards_project{
+  max-width: 369px;
+  /* margin-bottom: 200px; */
+  padding-bottom: 0;
+  border-radius: 10px;
+  background: #ebf0ee;
+}
+
+.about_section_cards img {
+  height: 150px;
+  border-radius: 10px;
+}
+
+.ul>div {
+  /* font-size: 12px; */
+}
